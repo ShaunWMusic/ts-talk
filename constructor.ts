@@ -8,6 +8,5 @@ class Pizza {
 }
 
 const pizza = new Pizza({
-  slices: 8,
   name: 'Margherita',
 })
